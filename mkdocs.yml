@@ -19,9 +19,9 @@ theme:
 docs_dir: material
 site_dir: docs
 
-repo_url: https://github.com/Insper/SistemasHardwareSoftware/
-repo_name: "sistemashardwaresoftware"
-site_url: https://insper.github.io/SistemasHardwareSoftware/
+repo_url:  https://FabricioNL.github.io/teste
+repo_name: "teste"
+site_url:  https://FabricioNL.github.io/teste
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
